@@ -1,0 +1,2 @@
+# yeblog
+blog for hexo
